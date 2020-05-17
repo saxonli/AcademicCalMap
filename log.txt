@@ -1,0 +1,5 @@
+register没有考虑是否有重复的用户
+insert表头
+search与数据库和insert的问题
+
+保持登录状态
